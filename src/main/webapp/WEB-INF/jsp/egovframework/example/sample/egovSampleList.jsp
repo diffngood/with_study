@@ -61,6 +61,7 @@
     <form:form commandName="searchVO" id="listForm" name="listForm" method="post">
         <input type="hidden" name="selectedId" />
         <div id="content_pop">
+			<!-- 수정1 -->
         	<!-- 타이틀 -->
         	<div id="title">
         		<ul>
